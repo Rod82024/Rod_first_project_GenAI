@@ -4,7 +4,7 @@
 
 #### New submission after review input:
 
-Left one Jupyter Notebook (Peft_8_16_2025_retrain) for the baseline assessment, model training and saving. Then a second Jupyter Notebook (Confirm_Finetuned_M_8_2025) to retrieve the saved model to perform inference and confirm that the changes were saved and provide a better result than baseline per the fine-tuning using LoRA. Also adding the saved model.
+Left one Jupyter Notebook with retraining for the baseline assessment, model training and saving. Then a second Jupyter Notebook to retrieve the saved model to perform inference and confirm that the changes were saved and provide a better result than baseline per the fine-tuning using LoRA. Also adding the saved model.
 
 
 #### Original submission notes:
